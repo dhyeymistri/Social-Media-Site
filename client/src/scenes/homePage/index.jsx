@@ -1,8 +1,12 @@
+import React from "react";
+import { Box } from "@mui/material";
+import Navbar from "../navbar";
+
 const HomePage = () => {
     return (
-        <div>
-            homepage
-        </div>
+        <Box>
+            <Navbar />
+        </Box>
     );
 };
 
