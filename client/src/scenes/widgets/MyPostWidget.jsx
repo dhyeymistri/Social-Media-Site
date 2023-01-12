@@ -46,7 +46,7 @@ import {
         formData.append("picturePath", image.name);
       }
   
-      const response = await fetch(`http://localhost:3001/post`, {
+      const response = await fetch(`https://sociogram-server.onrender.com/post`, {
         method: "POST",
         headers: { Authorization: `Bearer ${token}` },
         body: formData,
