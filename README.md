@@ -1,6 +1,6 @@
 # Social-Media-Site
 
-This is a MERN stack responsive Social Media site. Features of the site includes making photo post, making new friends, dark/light theme and much more.
+This is a MERN stack responsive Social Media site. Features of the site includes making photo post, making new friends, dark/light theme and much more. [Click here](https://sociogram-social-app.onrender.com/) to access the site.
 
 This social media application consists of a register page with complete validation along with functionality to upload a user image for our profile
 ![Register Page](https://github.com/dhyeymistri/Social-Media-Site/blob/master/Screenshots/Register.jpg)
